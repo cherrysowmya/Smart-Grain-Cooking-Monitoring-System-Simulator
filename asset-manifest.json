@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Smart-Grain-Cooking-Monitoring-System-Simulator/static/css/main.3cdf1a16.css",
+    "main.js": "/Smart-Grain-Cooking-Monitoring-System-Simulator/static/js/main.8ceca608.js",
+    "static/js/453.74743435.chunk.js": "/Smart-Grain-Cooking-Monitoring-System-Simulator/static/js/453.74743435.chunk.js",
+    "index.html": "/Smart-Grain-Cooking-Monitoring-System-Simulator/index.html",
+    "main.3cdf1a16.css.map": "/Smart-Grain-Cooking-Monitoring-System-Simulator/static/css/main.3cdf1a16.css.map",
+    "main.8ceca608.js.map": "/Smart-Grain-Cooking-Monitoring-System-Simulator/static/js/main.8ceca608.js.map",
+    "453.74743435.chunk.js.map": "/Smart-Grain-Cooking-Monitoring-System-Simulator/static/js/453.74743435.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cdf1a16.css",
+    "static/js/main.8ceca608.js"
+  ]
+}
